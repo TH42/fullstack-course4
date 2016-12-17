@@ -30,8 +30,8 @@ section {
     border: 2px solid #000000;
     float: left;
 }
-section div {
-    background-color: 999999;
+section {
+    background-color: #999999;
 }
 #section1 h2 {
     background-color: #D59898;
