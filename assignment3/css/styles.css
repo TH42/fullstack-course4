@@ -1,3 +1,17 @@
+#header-nav {
+    background-color: #999999;
+    border-radius: 0;
+    border: 1px solid #000000;
+}
+a.navbar-brand {
+    font-size: 2em;
+}
+.navbar-nav li {
+    background-color: #FFFFFF;
+    color: #000000;
+    border: 1px solid #000000;
+}
 section {
     background-color: #999999;
+    margin: 1em auto;
 }
